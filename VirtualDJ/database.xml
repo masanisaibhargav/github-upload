@@ -1,0 +1,1125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VirtualDJ_Database Version="8.4">
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Documents\VirtualDJ\Sampler\Audio\Laugh.vdjsample" FileSize="34984">
+  <Tags Bpm="0.626939" Flag="1" />
+  <Infos SongLength="2.481066" FirstSeen="1571675941" Bitrate="113" Cover="1" />
+  <Scan Version="801" Bpm="0.626939" />
+  <Poi Type="beatgrid" />
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Documents\VirtualDJ\Sampler\Audio\Siren.vdjsample" FileSize="331329">
+  <Tags Bpm="0.542857" Flag="1" />
+  <Infos SongLength="17.371429" FirstSeen="1571675941" Bitrate="153" Cover="1" />
+  <Scan Version="801" Bpm="0.542857" />
+  <Poi Type="beatgrid" />
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Documents\VirtualDJ\Sampler\Audio\Air Horn.vdjsample" FileSize="128221">
+  <Tags Bpm="0.651587" Flag="1" />
+  <Infos SongLength="6.580862" FirstSeen="1571675941" Bitrate="156" Cover="1" />
+  <Scan Version="801" Bpm="0.651587" />
+  <Poi Pos="0.623464" Type="beatgrid" />
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Documents\VirtualDJ\Sampler\Audio\Applause.vdjsample" FileSize="221779">
+  <Tags Bpm="0.549955" Flag="1" />
+  <Infos SongLength="15.281633" FirstSeen="1571675941" Bitrate="116" Cover="1" />
+  <Scan Version="801" Bpm="0.549955" />
+  <Poi Type="beatgrid" />
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Documents\VirtualDJ\Sampler\Audio\Explosion.vdjsample" FileSize="45932">
+  <Tags Bpm="0.375516" Flag="1" />
+  <Infos SongLength="3.004127" FirstSeen="1571675941" Bitrate="122" Cover="1" />
+  <Scan Version="801" Bpm="0.375516" />
+  <Poi Type="beatgrid" />
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 05 - Bonalu.mp3" FileSize="4082567">
+  <Tags Author="Rahul Sipligunj, Mohana Bhogaraju" Title="[iSongs.info] 05 - Bonalu" Genre="Telugu" Album="Ismart Shankar - (2019)" Composer="Mani Sharma" TrackNumber="05" Year="2019" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\Hey Babu-Naasongs.me.mp3" FileSize="8020093">
+  <Tags Author="Karthik, Ramya Behara" Title="Hey Babu-Naasongs.me" Album="Devadas-Naasongs.me" Composer="Mani Sharma" Label="Naasongs.me" Remixer="Naasongs.me" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675941" Cover="1" />
+  <Comment>Naasongs.me</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\Peniviti-Naasongs.me.mp3" FileSize="7918579">
+  <Tags Author="Kaala Bhairava" Title="Peniviti-Naasongs.me" Album="Aravindha Sametha" Composer="S Thaman" Label="Naasongs.me" Remix="Naasongs.me" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675941" Cover="1" />
+  <Comment>Naasongs.me</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 05 - Maya.mp3" FileSize="3818019">
+  <Tags Author="Arjit Singh, Ramya Behara" Title="[iSongs.info] 05 - Maya" Genre="Telugu" Album="Naa Peru Surya Naa illu India - (2018)" Composer="Vishal-Shekhar" TrackNumber="05" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 03 - Apple Beauty.mp3" FileSize="3859375">
+  <Tags Author="Yazin Nizar" Title="[iSongs.info] 03 - Apple Beauty" Genre="Telugu" Album="Janatha Garage - (2016)" Composer="Devi Sri Prasad" TrackNumber="03" Year="2016" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="33" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 06 - Miami.mp3" FileSize="3602813">
+  <Tags Author="Adithi Singh Sharma, Rita, Manisha Eerabathini" Title="[iSongs.info] 06 - Miami" Genre="Telugu" Album="Chal Mohan Ranga - (2018)" Composer="Thaman S." TrackNumber="06" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>                                                                                                                                                                                                                                                                                                                                                                                                            
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 05 - Dil Se.mp3" FileSize="4295219">
+  <Tags Author="Karthik, Shweta Mohan" Title="[iSongs.info] 05 - Dil Se" Genre="Telugu" Album="Gabbar Singh - (2012)" Composer="Devi Sri Prasad" TrackNumber="05" Year="2012" Flag="1" />
+  <Infos SongLength="263.720000" FirstSeen="1571675942" Bitrate="130" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 02 - Bijili.mp3" FileSize="3928420">
+  <Tags Author="Prudhvi Chandra,Janani Sanjeevi" Title="[iSongs.info] 02 - Bijili" Genre="Telugu" Album="Nela Ticket - (2018)" Composer="Shakthi Kanth Karthick" TrackNumber="02" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 04 - Pillaa.mp3" FileSize="3752704">
+  <Tags Author="Vaddepalli Srinivas" Title="[iSongs.info] 04 - Pillaa" Genre="Telugu" Album="Gabbar Singh - (2012)" Composer="Devi Sri Prasad" TrackNumber="04" Year="2012" Flag="1" />
+  <Infos SongLength="229.800000" FirstSeen="1571675942" Bitrate="131" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 02 - Vaaram.mp3" FileSize="3859372">
+  <Tags Author="Nakash Aziz" Title="[iSongs.info] 02 - Vaaram" Genre="Telugu" Album="Chal Mohan Ranga - (2018)" Composer="Thaman S." TrackNumber="02" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Mirchi.mp3" FileSize="1427373">
+  <Tags Author="Chinna Ponnu" Title="[iSongs.info] 01 - Mirchi" Genre="Telugu" Album="Mirchi - (2013)" TrackNumber="01" Year="2013" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 05 - Ela Ela.mp3" FileSize="3654795">
+  <Tags Author="Yazin Nazir" Title="[iSongs.info] 05 - Ela Ela" Genre="Telugu" Album="Krishnarjuna Yudham - (2018)" Composer="Hiphop Tamizha" TrackNumber="05" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\Chal Maar -Naasongs.Audio.mp3" FileSize="8537179">
+  <Tags Author="Naasongs.Audio" Title="Chal Maar -Naasongs.Audio" Genre="Naasongs.Audio" Album="Naasongs.Audio" Composer="Naasongs.Audio" Label="Naasongs.Audio" Remix="Naasongs.Audio" Remixer="Naasongs.Audio" TrackNumber="Naasongs.Audio/Naasongs.Audio" Grouping="Naasongs.Audio" Year="2000" Flag="1" />
+  <Infos FirstSeen="1571675941" Cover="1" />
+  <Comment>Download From Naasongs.Audio</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 04 - Sweety.mp3" FileSize="4413657">
+  <Tags Author="Dinesh Kanagaratnam,Mega" Title="[iSongs.info] 04 - Sweety" Genre="Telugu" Album="Race Gurram - (2014)" Composer="SS Thaman" Label="http://iSongs.info" TrackNumber="04" Year="2014" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 06 - Orayyo.mp3" FileSize="5105478">
+  <Tags Author="Chandra Bose" Title="[iSongs.info] 06 - Orayyo" Genre="Telugu" Album="Rangasthalam - (2018)" Composer="Devi Sri Prasad" TrackNumber="06" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Raavana.mp3" FileSize="4173529">
+  <Tags Author="Divya Kumar" Title="[iSongs.info] 01 - Raavana" Genre="Telugu" Album="Jai Lava Kusa - (2017)" Composer="Devi Sri Prasad" TrackNumber="01" Year="2017" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\Anaganaganaga-Naasongs.me.mp3" FileSize="7210882">
+  <Tags Author="Armaan Malik" Title="Anaganaganaga-Naasongs.me" Album="Aravindha Sametha" Composer="Naasongs.me" Label="Naasongs.me" Remix="Naasongs.me" Remixer="Naasongs.me" Grouping="Naasongs.me" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675941" Cover="1" />
+  <Comment>Naasongs.me</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\Vachindamma -- Naasongs.me.mp3" FileSize="4149913">
+  <Tags Author="Sid Sriram" Title="Vachindamma :: Naasongs.me" Genre="Naasongs.me" Album="Geetha Govindam (2018)" Composer="Gopi Sunder" TrackNumber="05" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675941" Cover="1" />
+  <Comment>Naasongs.me</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Sardaar.mp3" FileSize="4284149">
+  <Tags Author="Benny Dayal" Title="[iSongs.info] 01 - Sardaar" Genre="Telugu" Album="Sardaar Gabbar Singh - (2016)" Composer="Devi Sri Prasad" TrackNumber="01" Year="2016" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 04 - Undipo.mp3" FileSize="4854529">
+  <Tags Author="Anurag Kulkarni, Ramya Behara" Title="[iSongs.info] 04 - Undipo" Genre="Telugu" Album="Ismart Shankar - (2019)" Composer="Mani Sharma" TrackNumber="04" Year="2019" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>     
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Ninnila.mp3" FileSize="3795964">
+  <Tags Author="Armaan Malik" Title="[iSongs.info] 01 - Ninnila" Genre="Telugu" Album="Tholi Prema - (2018)" Composer="Thaman S." TrackNumber="01" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\Emo Emo Emoo -- Naasongs.me.mp3" FileSize="4311267">
+  <Tags Author="Sid Sriram" Title="Emo Emo Emoo :: Naasongs.me" Genre="Telugu" Album="Devadas (2018)" Composer="Mani Sharma" Label="Naasongs.me" TrackNumber="05" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675941" Cover="1" />
+  <Comment>Naasongs.me</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\Yenti Yenti -- Naasongs.me.mp3" FileSize="3330759">
+  <Tags Author="Chinmayi" Title="Yenti Yenti :: Naasongs.me" Genre="Naasongs.me" Album="Geetha Govindam (2018)" Composer="Gopi Sunder" TrackNumber="03" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675941" Cover="1" />
+  <Comment>Naasongs.me</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Dum Dare.mp3" FileSize="3767708">
+  <Tags Author="Haricharan" Title="[iSongs.info] 01 - Dum Dare" Genre="Telugu" Album="Kirrak Party - (2018)" Composer="B. Ajaneesh Loknath" TrackNumber="01" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\Dimaak Kharaab-Naasongs.me.mp3" FileSize="7060188">
+  <Tags Author="Keerthana Sharma &amp; Saketh" Title="Dimaak Kharaab-Naasongs.me" Album="Ismart Shankar" Composer="Mani Sharma" Label="Naasongs.me" Remix="Naasongs.me" Remixer="Naasongs.me" Grouping="Naasongs.me" Year="2019" Flag="1" />
+  <Infos FirstSeen="1571675941" Cover="1" />
+  <Comment>Naasongs.me</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\Yeda Poyindo -- Naasongs.me.mp3" FileSize="4942112">
+  <Tags Author="Nikitha Srivalli, Kailash Kher" Title="Yeda Poyindo :: Naasongs.me" Genre="Telugu" Album="Aravindha Sametha (2018)" Composer="S S Thaman" Label="Naasongs.me" TrackNumber="01" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675941" Cover="1" />
+  <Comment>Naasongs.me</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 02 - Gala Gala.mp3" FileSize="4035838">
+  <Tags Author="Siddarth Mahadevan,Rabbit Mac" Title="[iSongs.info] 02 - Gala Gala" Genre="Telugu" Album="Race Gurram - (2014)" Composer="SS Thaman" Label="http://iSongs.info" TrackNumber="02" Year="2014" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\Laggam Time-Naasongs.Audio.mp3" FileSize="7627608">
+  <Tags Author="Naasongs.Audio" Title="Laggam Time-Naasongs.Audio" Album="Naasongs.Audio" Composer="Naasongs.Audio" Label="Naasongs.Audio" Remix="Naasongs.Audio" Remixer="Naasongs.Audio" Grouping="Naasongs.Audio" Flag="1" />
+  <Infos FirstSeen="1571675941" Cover="1" />
+  <Comment>Naasongs.Audio</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Veera Fan.mp3" FileSize="3724234">
+  <Tags Author="Nakash Aziz" Title="[iSongs.info] 01 - Veera Fan" Genre="Telugu" Album="Fan - (2016)" Composer="Vishal-Shekhar" TrackNumber="01" Year="2016" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 04 - Pandagala.mp3" FileSize="4749319">
+  <Tags Author="Kailash Kher" Title="[iSongs.info] 04 - Pandagala" Genre="Telugu" Album="Mirchi - (2013)" TrackNumber="04" Year="2013" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 02 - Chilipiga.mp3" FileSize="5372220">
+  <Tags Author="Karthik" Title="[iSongs.info] 02 - Chilipiga" Genre="Telugu" Album="Orange - (2010)" TrackNumber="02" Year="2010" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Pranaamam.mp3" FileSize="3993544">
+  <Tags Author="Shankar Mahadevan" Title="[iSongs.info] 01 - Pranaamam" Genre="Telugu" Album="Janatha Garage - (2016)" Composer="Devi Sri Prasad" TrackNumber="01" Year="2016" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Next Enti.mp3" FileSize="3749710">
+  <Tags Author="Sagar, Ranina Reddy" Title="[iSongs.info] 01 - Next Enti" Genre="Telugu" Album="Nenu Local - (2017)" Composer="Devi Sri Prasad" TrackNumber="01" Year="2017" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 04 - Dochestha.mp3" FileSize="4031009">
+  <Tags Author="Nakash Aziz" Title="[iSongs.info] 04 - Dochestha" Genre="Telugu" Album="Jai Lava Kusa - (2017)" Composer="Devi Sri Prasad" TrackNumber="04" Year="2017" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 03 - Dont Stop.mp3" FileSize="3928836">
+  <Tags Author="Raghu Dixit" Title="[iSongs.info] 03 - Dont Stop" Genre="Telugu" Album="Nannaku Prematho - (2015)" Composer="Devi Sri Prasad" TrackNumber="03" Year="2015" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 06 - Toliprema.mp3" FileSize="3941003">
+  <Tags Author="Kaala Bhairava" Title="[iSongs.info] 06 - Toliprema" Genre="Telugu" Album="Tholi Prema - (2018)" Composer="Thaman S." TrackNumber="06" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 03 - Last Bench.mp3" FileSize="2871275">
+  <Tags Author="Shashank Sheshagiri, Chintan Vikas, Varun Ramachandra" Title="[iSongs.info] 03 - Last Bench" Genre="Telugu" Album="Kirrak Party - (2018)" Composer="B. Ajaneesh Loknath" TrackNumber="03" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 03 - Pedda Puli.mp3" FileSize="3748211">
+  <Tags Author="Rahul Sipligunj" Title="[iSongs.info] 03 - Pedda Puli" Genre="Telugu" Album="Chal Mohan Ranga - (2018)" Composer="Thaman S." TrackNumber="03" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 02 - Guruvaram.mp3" FileSize="3521120">
+  <Tags Author="Vijay Prakash" Title="[iSongs.info] 02 - Guruvaram" Genre="Telugu" Album="Kirrak Party - (2018)" Composer="B. Ajaneesh Loknath" TrackNumber="02" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 06 - Kevvu Keka.mp3" FileSize="4033596">
+  <Tags Author="Mamta Sharma, &quot;Khushi&quot; Murali" Title="[iSongs.info] 06 - Kevvu Keka" Genre="Telugu" Album="Gabbar Singh - (2012)" Composer="Devi Sri Prasad" TrackNumber="06" Year="2012" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 05 - Swing Zara.mp3" FileSize="4226208">
+  <Tags Author="Neha Bhasin, Dsp" Title="[iSongs.info] 05 - Swing Zara" Genre="Telugu" Album="Jai Lava Kusa - (2017)" Composer="Devi Sri Prasad" TrackNumber="05" Year="2017" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 06 - Sumangalai.mp3" FileSize="2355400">
+  <Tags Author="Sravani" Title="[iSongs.info] 06 - Sumangalai" Genre="Telugu" Album="Nene Raju Nene Mantri - (2017)" Composer="Anup Rubens" TrackNumber="06" Year="2017" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 02 - I Wanna Fly.mp3" FileSize="3868784">
+  <Tags Author="LV Revanth, Sanjith Hegde" Title="[iSongs.info] 02 - I Wanna Fly" Genre="Telugu" Album="Krishnarjuna Yudham - (2018)" Composer="Hiphop Tamizha" TrackNumber="02" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 06 - Eppudainna.mp3" FileSize="3920962">
+  <Tags Author="Swetha Pandit" Title="[iSongs.info] 06 - Eppudainna" Genre="Telugu" Album="Mahanubhavudu - (2017)" Composer="SS Thaman" TrackNumber="06" Year="2017" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\02 - Native Place [NaaSong.in].mp3" FileSize="3754714">
+  <Tags Author="Narendra" Title="02 - Native Place [NaaSong.in]" Genre="Telugu" Album="Hello Guru Prema Kosame (2018)" Composer="Devi Sri Prasad" Label="https://naasong.in" Remix="NaaSong.in" TrackNumber="02/05" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675941" Cover="1" />
+  <Comment>https://naasong.in</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 03 - Chal Godava.mp3" FileSize="3531153">
+  <Tags Author="Yazin Nizar" Title="[iSongs.info] 03 - Chal Godava" Genre="Telugu" Album="Chalo - (2017)" Composer="Mahati Swara Sagar" TrackNumber="03" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 06 - Iraga Iraga.mp3" FileSize="3903730">
+  <Tags Author="Rahul Sipligunj, Mohana Bhogaraju" Title="[iSongs.info] 06 - Iraga Iraga" Genre="Telugu" Album="Naa Peru Surya Naa illu India - (2018)" Composer="Vishal-Shekhar" TrackNumber="06" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 02 - Rock On Bro.mp3" FileSize="4120180">
+  <Tags Author="Raghu Dixit" Title="[iSongs.info] 02 - Rock On Bro" Genre="Telugu" Album="Janatha Garage - (2016)" Composer="Devi Sri Prasad" TrackNumber="02" Year="2016" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 05 - Love Dhebba.mp3" FileSize="3976934">
+  <Tags Author="Deepak, Shravana Bhargavi" Title="[iSongs.info] 05 - Love Dhebba" Genre="Telugu" Album="Nannaku Prematho - (2015)" Composer="Devi Sri Prasad" TrackNumber="05" Year="2015" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 02 - Hamsa Naava.mp3" FileSize="3362066">
+  <Tags Author="Sony, Deepu" Title="[iSongs.info] 02 - Hamsa Naava" Genre="Telugu" Album="Baahubali 2 - (2017)" Composer="M.M. Keeravaani" TrackNumber="02" Year="2017" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 03 - Kathulatho.mp3" FileSize="2203263">
+  <Tags Author="Anup Rubens" Title="[iSongs.info] 03 - Kathulatho" Genre="Telugu" Album="Nene Raju Nene Mantri - (2017)" Composer="Anup Rubens" TrackNumber="03" Year="2017" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 06 - Pakka Local.mp3" FileSize="4305760">
+  <Tags Author="Geetha Madhuri" Title="[iSongs.info] 06 - Pakka Local" Genre="Telugu" Album="Janatha Garage - (2016)" Composer="Devi Sri Prasad" TrackNumber="06" Year="2016" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Ga Gha Megha.mp3" FileSize="3929210">
+  <Tags Author="Thaman S., Rahul Nambiar" Title="[iSongs.info] 01 - Ga Gha Megha" Genre="Telugu" Album="Chal Mohan Ranga - (2018)" Composer="Thaman S." TrackNumber="01" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 06 - Sarrainodu.mp3" FileSize="4868192">
+  <Tags Author="Hard Kaur, Brijesh Shandilya, Sonu Kakkar" Title="[iSongs.info] 06 - Sarrainodu" Genre="Telugu" Album="Sarrainodu - (2016)" Composer="S.S. Thaman" TrackNumber="06" Year="2016" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 02 - I Dont Know.mp3" FileSize="4393967">
+  <Tags Author="Farhan Akhtar" Title="[iSongs.info] 02 - I Dont Know" Genre="Telugu" Album="Bharat Ane Nenu - (2018)" Composer="Devi Sri Prasad" TrackNumber="02" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 05 - Oka Praanam.mp3" FileSize="2870128">
+  <Tags Author="Kaala Bhairava" Title="[iSongs.info] 05 - Oka Praanam" Genre="Telugu" Album="Baahubali 2 - (2017)" Composer="M.M. Keeravaani" TrackNumber="05" Year="2017" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 06 - Rooba Rooba.mp3" FileSize="5112281">
+  <Tags Author="Shahil Hada, Chinmayi" Title="[iSongs.info] 06 - Rooba Rooba" Genre="Telugu" Album="Orange - (2010)" TrackNumber="06" Year="2010" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 05 - Jigelu Rani.mp3" FileSize="4940402">
+  <Tags Author="Rela Kumar, Ganta Venkata Lakshmi" Title="[iSongs.info] 05 - Jigelu Rani" Genre="Telugu" Album="Rangasthalam - (2018)" Composer="Devi Sri Prasad" TrackNumber="05" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 06 - Race Gurram.mp3" FileSize="3478710">
+  <Tags Author="Usha Uthup,M.M.Manasi,M.M.Monisha" Title="[iSongs.info] 06 - Race Gurram" Genre="Telugu" Album="Race Gurram - (2014)" Composer="SS Thaman" Label="http://iSongs.info" TrackNumber="06" Year="2014" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 03 - Bad Boy.mp3" FileSize="2881267">
+  <Tags Author="Badshah, Neeti Mohan" Title="[iSongs.info] 03 - Bad Boy" Genre="Telugu" Album="Saaho - (2019)" Composer="Anirudh Ravichander, Dhvani Bhanushali, Tanishk Bagchi" TrackNumber="03" Year="2019" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>                                                                                       
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 07 - Neechamaina.mp3" FileSize="3367727">
+  <Tags Author="Vasishta N" Title="[iSongs.info] 07 - Neechamaina" Genre="Telugu" Album="Kirrak Party - (2018)" Composer="B. Ajaneesh Loknath" TrackNumber="07" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Rendu Kallu.mp3" FileSize="3399106">
+  <Tags Author="Armaan Malik" Title="[iSongs.info] 01 - Rendu Kallu" Genre="Telugu" Album="Mahanubhavudu - (2017)" Composer="SS Thaman" TrackNumber="01" Year="2017" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 05 - Sir Bewarse.mp3" FileSize="3000777">
+  <Tags Author="Shashank Sheshagiri" Title="[iSongs.info] 05 - Sir Bewarse" Genre="Telugu" Album="Kirrak Party - (2018)" Composer="B. Ajaneesh Loknath" TrackNumber="05" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 04 - Neelo Ninnu.mp3" FileSize="3603882">
+  <Tags Author="Shreya Ghoshal" Title="[iSongs.info] 04 - Neelo Ninnu" Genre="Telugu" Album="Kirrak Party - (2018)" Composer="B. Ajaneesh Loknath" TrackNumber="04" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 05 - O Vasumathi.mp3" FileSize="4416906">
+  <Tags Author="Yazin Nizar, Rita" Title="[iSongs.info] 05 - O Vasumathi" Genre="Telugu" Album="Bharat Ane Nenu - (2018)" Composer="Devi Sri Prasad" TrackNumber="05" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Vaaru Veeru.mp3" FileSize="4319373">
+  <Tags Author="Anurag Kulkarni, Anjana Sowmya" Title="[iSongs.info] 01 - Vaaru Veeru" Genre="Telugu" Album="Devadas - (2018)" Composer="Mani Sharma" TrackNumber="01" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 02 - Tring Tring.mp3" FileSize="4212857">
+  <Tags Author="Jaspreet Jasz, Ranina Reddy" Title="[iSongs.info] 02 - Tring Tring" Genre="Telugu" Album="Jai Lava Kusa - (2017)" Composer="Devi Sri Prasad" TrackNumber="02" Year="2017" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 03 - Kiss Me Baby.mp3" FileSize="3485758">
+  <Tags Author="S. S. Thaman, Manisha Eerabathini" Title="[iSongs.info] 02 - Kiss Me Baby" Genre="Telugu" Album="Mahanubhavudu - (2017)" Composer="SS Thaman" TrackNumber="03" Year="2017" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 06 - Pranamantha.mp3" FileSize="3287067">
+  <Tags Author="Kala Bhairava" Title="[iSongs.info] 06 - Pranamantha" Genre="Telugu" Album="Kirrak Party - (2018)" Composer="B. Ajaneesh Loknath" TrackNumber="06" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\Ismart Title Song-Naasongs.me.mp3" FileSize="6135454">
+  <Tags Author="Anurag Kulkarni-Naasongs.me" Title="Ismart Title Song-Naasongs.me" Genre="Telugu-Naasongs.me" Album="iSmart Shankar-Naasongs.me" Composer="Mani Sharma-Naasongs.me" Label="Naasongs.me" Remix="Naasongs.me" Remixer="Naasongs.me" Grouping="Naasongs.me" Year="2019" Flag="1" />
+  <Infos FirstSeen="1571675941" Cover="1" />
+  <Comment>Naasongs.me</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\Miss Sunshine-Naasongs.Audio .mp3" FileSize="4160345">
+  <Tags Author="Naasongs.Audio" Title="Miss Sunshine-Naasongs.Audio" Album="Naasongs.Audio" Composer="Naasongs.Audio" Label="Naasongs.Audio" Remix="Naasongs.Audio" Remixer="Naasongs.Audio" Grouping="Naasongs.Audio" Flag="1" />
+  <Infos FirstSeen="1571675941" Cover="1" />
+  <Comment>Naasongs.Audio</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 04 - Blockbuster.mp3" FileSize="5027461">
+  <Tags Author="Shreya Ghoshal, Nakash Aziz, Simha, Sri Krishna, Deepu" Title="[iSongs.info] 04 - Blockbuster" Genre="Telugu" Album="Sarrainodu - (2016)" Composer="S.S. Thaman" TrackNumber="04" Year="2016" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 06 - Nee Choopula.mp3" FileSize="1033249">
+  <Tags Author="Kailash Kher" Title="[iSongs.info] 06 - Nee Choopula" Genre="Telugu" Album="Mirchi - (2013)" TrackNumber="06" Year="2013" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 03 - Urime Manase.mp3" FileSize="4499155">
+  <Tags Author="LV Revanth, Sanjith Hegde" Title="[iSongs.info] 03 - Urime Manase" Genre="Telugu" Album="Krishnarjuna Yudham - (2018)" Composer="Hiphop Tamizha" TrackNumber="03" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 04 - Dandaalayyaa.mp3" FileSize="3450257">
+  <Tags Author="Kaala Bhairava" Title="[iSongs.info] 04 - Dandaalayyaa" Genre="Telugu" Album="Baahubali 2 - (2017)" Composer="M.M. Keeravaani" TrackNumber="04" Year="2017" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>                                                                                                                                                                                                                                                                                                                                                                                                      
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Bhoochadae (1).mp3" FileSize="4305452">
+  <Tags Author="Shreya Ghoshal, Rahul Nambiar,Naveen Madhav" Title="[iSongs.info] 01 - Bhoochadae" Genre="Telugu" Album="Race Gurram - (2014)" Composer="SS Thaman" Label="http://iSongs.info" TrackNumber="01" Year="2014" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 04 - Love Me Again.mp3" FileSize="4139504">
+  <Tags Author="Sooraj Santhosh" Title="[iSongs.info] 04 - Love Me Again" Genre="Telugu" Album="Nannaku Prematho - (2015)" Composer="Devi Sri Prasad" TrackNumber="04" Year="2015" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 08 - Meera&apos;s Theme.mp3" FileSize="2178442">
+  <Tags Author="Sameera Bharadwaj" Title="[iSongs.info] 08 - Meera&apos;s Theme" Genre="Telugu" Album="Kirrak Party - (2018)" Composer="B. Ajaneesh Loknath" TrackNumber="08" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 03 - Nee Kallalona.mp3" FileSize="3809931">
+  <Tags Author="Vedala Hemachandra" Title="[iSongs.info] 03 - Nee Kallalona" Genre="Telugu" Album="Jai Lava Kusa - (2017)" Composer="Devi Sri Prasad" TrackNumber="03" Year="2017" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Dhaari Choodu.mp3" FileSize="3070963">
+  <Tags Author="Penchal Das" Title="[iSongs.info] 01 - Dhaari Choodu" Genre="Telugu" Album="Krishnarjuna Yudham - (2018)" Composer="Hiphop Tamizha" TrackNumber="01" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Ola Olaala Ala.mp3" FileSize="5469196">
+  <Tags Author="Karunya" Title="[iSongs.info] 01 - Ola Olaala Ala" Genre="Telugu" Album="Orange - (2010)" TrackNumber="01" Year="2010" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 04 - Very Very Sad.mp3" FileSize="3775377">
+  <Tags Author="Yazin Nizar" Title="[iSongs.info] 04 - Very Very Sad" Genre="Telugu" Album="Chal Mohan Ranga - (2018)" Composer="Thaman S." TrackNumber="04" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\Chettu Kinda Doctor-Naasongs.me.mp3" FileSize="7942445">
+  <Tags Author="Padma Latha" Title="Chettu Kinda Doctor-Naasongs.me" Album="Devadas-Naasongs.me" Composer="Naasongs.me" Label="Naasongs.me" Remixer="Naasongs.me" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675941" Cover="1" />
+  <Comment>Naasongs.me</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 09 - Dam Dare (Coir).mp3" FileSize="3715280">
+  <Tags Author="Ajaneesh Loknath" Title="[iSongs.info] 09 - Dam Dare (Coir)" Genre="Telugu" Album="Kirrak Party - (2018)" Composer="B. Ajaneesh Loknath" Remix="Coir" TrackNumber="09" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 02 - You Are My Mla.mp3" FileSize="4532925">
+  <Tags Author="Dhanunjay" Title="[iSongs.info] 02 - You Are My Mla" Genre="Telugu" Album="Sarrainodu - (2016)" Composer="S.S. Thaman" TrackNumber="02" Year="2016" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 02 - Yahoon Yahoon.mp3" FileSize="4584647">
+  <Tags Author="Mika Singh" Title="[iSongs.info] 02 - Yahoon Yahoon" Genre="Telugu" Album="Mirchi - (2013)" TrackNumber="02" Year="2013" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Follow Follow.mp3" FileSize="3689764">
+  <Tags Author="Jr. NTR" Title="[iSongs.info] 01 - Follow Follow" Genre="Telugu" Album="Nannaku Prematho - (2015)" Composer="Devi Sri Prasad" TrackNumber="01" Year="2015" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\Laka Laka Lakumikara-Naasongs.me.mp3" FileSize="7638936">
+  <Tags Author="Anurag kulkarni, sri krishna" Title="Laka Laka Lakumikara-Naasongs.me" Album="Nani" Label="Naasongs.me" Remixer="Naasongs.me" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675941" Cover="1" />
+  <Comment>Naasongs.me</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\Reddy Ikkada Soodu -- Naasongs.me.mp3" FileSize="4027432">
+  <Tags Author="Daler Mehendi, Anjana Soumya" Title="Reddy Ikkada Soodu :: Naasongs.me" Genre="Telugu" Album="Aravindha Sametha (2018)" Composer="S S Thaman" Label="Naasongs.me" TrackNumber="04" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675941" Cover="1" />
+  <Comment>Naasongs.me</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 02 - Mahanubhavudu.mp3" FileSize="4293973">
+  <Tags Author="M. M. Manasi, Geetha Madhuri" Title="[iSongs.info] 01 - Mahanubhavudu" Genre="Telugu" Album="Mahanubhavudu - (2017)" Composer="SS Thaman" TrackNumber="02" Year="2017" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 03 - Private Party.mp3" FileSize="4362424">
+  <Tags Author="M.C. Vicky, Manasi M M" Title="[iSongs.info] 03 - Private Party" Genre="Telugu" Album="Sarrainodu - (2016)" Composer="S.S. Thaman" TrackNumber="03" Year="2016" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 05 - Nee Selavadigi.mp3" FileSize="1717340">
+  <Tags Author="Shweta Mohan" Title="[iSongs.info] 05 - Nee Selavadigi" Genre="Telugu" Album="Janatha Garage - (2016)" Composer="Devi Sri Prasad" TrackNumber="05" Year="2016" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 04 - Jayaho Janatha.mp3" FileSize="4276930">
+  <Tags Author="Sukhwinder Singh" Title="[iSongs.info] 04 - Jayaho Janatha" Genre="Telugu" Album="Janatha Garage - (2016)" Composer="Devi Sri Prasad" TrackNumber="04" Year="2016" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 05 - Nee Chepakallu.mp3" FileSize="4368159">
+  <Tags Author="Sagar, Chinmayee" Title="[iSongs.info] 05 - Nee Chepakallu" Genre="Telugu" Album="Sardaar Gabbar Singh - (2016)" Composer="Devi Sri Prasad" TrackNumber="05" Year="2016" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\Kanureppala Kaalam -- Naasongs.me.mp3" FileSize="6638300">
+  <Tags Author="Gopi Sundar" Title="Kanureppala Kaalam :: Naasongs.me" Genre="Naasongs.me" Album="Geetha Govindam (2018)" Composer="Gopi Sunder" TrackNumber="04" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675941" Cover="1" />
+  <Comment>Naasongs.me</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 03 - Nenu Nuvvantu.mp3" FileSize="4719384">
+  <Tags Author="Naresh Iyer" Title="[iSongs.info] 03 - Nenu Nuvvantu" Genre="Telugu" Album="Orange - (2010)" TrackNumber="03" Year="2010" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 04 - My Love is Back.mp3" FileSize="4259266">
+  <Tags Author="Rahul Nambiar" Title="[iSongs.info] 04 - My Love is Back" Genre="Telugu" Album="Mahanubhavudu - (2017)" Composer="SS Thaman" TrackNumber="04" Year="2017" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - O Sari Try Chei.mp3" FileSize="4238106">
+  <Tags Author="Mallikarjun" Title="[iSongs.info] 01 - O Sari Try Chei" Genre="Telugu" Album="Nela Ticket - (2018)" Composer="Shakthi Kanth Karthick" TrackNumber="01" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 03 - Beautiful Love.mp3" FileSize="4720009">
+  <Tags Author="Armaan Malik, Chaitra Ambadipudi" Title="[iSongs.info] 03 - Beautiful Love" Genre="Telugu" Album="Naa Peru Surya Naa illu India - (2018)" Composer="Vishal-Shekhar" TrackNumber="03" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Bharat Ane Nenu.mp3" FileSize="5237830">
+  <Tags Author="David Simon" Title="[iSongs.info] 01 - Bharat Ane Nenu" Genre="Telugu" Album="Bharat Ane Nenu - (2018)" Composer="Devi Sri Prasad" TrackNumber="01" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 03 - Sunona Sunaina.mp3" FileSize="3550219">
+  <Tags Author="Rahul Nambiar" Title="[iSongs.info] 03 - Sunona Sunaina" Genre="Telugu" Album="Tholi Prema - (2018)" Composer="Thaman S." TrackNumber="03" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 02 - Na Manasu Neelo.mp3" FileSize="4377765">
+  <Tags Author="Devi Sri Prasad, Sharmila" Title="[iSongs.info] 02 - Na Manasu Neelo" Genre="Telugu" Album="Nannaku Prematho - (2015)" Composer="Devi Sri Prasad" TrackNumber="02" Year="2015" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Desktop\movies\www.3MovieRulz.tv - Evaru (2019) 720p Telugu DVDScr x264 MP3 900MB.mkv" FileSize="956762257" Flag="64">
+  <Tags Year="2019" Flag="2" />
+  <Infos FirstSeen="1571676472" />
+ </Song>                                                                                                                                                 
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 02 - Drunk and Drive.mp3" FileSize="4082457">
+  <Tags Author="Rahul Sipligunj" Title="[iSongs.info] 02 - Drunk and Drive" Genre="Telugu" Album="Chalo - (2017)" Composer="Mahati Swara Sagar" TrackNumber="02" Year="2017" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 05 - Down Down Duppa.mp3" FileSize="3929670">
+  <Tags Author="Thaman,Shruti Haasan" Title="[iSongs.info] 05 - Down Down Duppa" Genre="Telugu" Album="Race Gurram - (2014)" Composer="SS Thaman" Label="http://iSongs.info" TrackNumber="05" Year="2014" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 05 - Telusaa Telusaa.mp3" FileSize="4380420">
+  <Tags Author="Jubin Nautiyal, Sammeera Bharadwaj" Title="[iSongs.info] 05 - Telusaa Telusaa" Genre="Telugu" Album="Sarrainodu - (2016)" Composer="S.S. Thaman" TrackNumber="05" Year="2016" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 05 - Vinnane Vinnane.mp3" FileSize="3977407">
+  <Tags Author="Armaan Malik, Devan Ekambaram" Title="[iSongs.info] 05 - Vinnane Vinnane" Genre="Telugu" Album="Tholi Prema - (2018)" Composer="Thaman S." TrackNumber="05" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 03 - Don u Don u Don u.mp3" FileSize="3194890">
+  <Tags Author="Sooraj Santhosh, Srimathumitha" Title="[iSongs.info] 03 - Don u Don u Don u" Genre="Telugu" Album="Maas - (2016)" Composer="Anirudh Ravichander" TrackNumber="03" Year="2016" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 03 - Idhedho Bagundhe.mp3" FileSize="4360649">
+  <Tags Author="Vijay Prakash, Anitha" Title="[iSongs.info] 03 - Idhedho Bagundhe" Genre="Telugu" Album="Mirchi - (2013)" TrackNumber="03" Year="2013" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 04 - Life Is A Rainbow.mp3" FileSize="4279240">
+  <Tags Author="Yazin Nizar, Priya Hemesh" Title="[iSongs.info] 04 - Life Is A Rainbow" Genre="Telugu" Album="Vunnadi Okate Zindagi - (2017)" Composer="Devi Sri Prasad" TrackNumber="04" Year="2017" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 05 - Swing Zara - Copy.mp3" FileSize="4226208">
+  <Tags Author="Neha Bhasin, Dsp" Title="[iSongs.info] 05 - Swing Zara" Genre="Telugu" Album="Jai Lava Kusa - (2017)" Composer="Devi Sri Prasad" TrackNumber="05" Year="2017" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Athiloka Sundari.mp3" FileSize="4217812">
+  <Tags Author="Vishal Dadlani, Karthik" Title="[iSongs.info] 01 - Athiloka Sundari" Genre="Telugu" Album="Sarrainodu - (2016)" Composer="S.S. Thaman" TrackNumber="01" Year="2016" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 06 - Nannaku Prematho.mp3" FileSize="3218318">
+  <Tags Author="DSP, Sagar" Title="[iSongs.info] 06 - Nannaku Prematho" Genre="Telugu" Album="Nannaku Prematho - (2015)" Composer="Devi Sri Prasad" TrackNumber="06" Year="2015" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\01 - My World Is Flying [NaaSong.in].mp3" FileSize="3609706">
+  <Tags Author="Alphons Joseph" Title="01 - My World Is Flying [NaaSong.in]" Genre="Telugu" Album="Hello Guru Prema Kosame (2018)" Composer="Devi Sri Prasad" Label="https://naasong.in" Remix="NaaSong.in" TrackNumber="01/05" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675941" Cover="1" />
+  <Comment>https://naasong.in</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 04 - Radhamma Radhamma.mp3" FileSize="4168939">
+  <Tags Author="Vijay Yesudas, Divya Spandana (Ramya)" Title="[iSongs.info] 04 - Radhamma Radhamma" Genre="Telugu" Album="Nene Raju Nene Mantri - (2017)" Composer="Anup Rubens" TrackNumber="04" Year="2017" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Saahore Baahubali.mp3" FileSize="3339090">
+  <Tags Author="Daler Mehndi, M.M. Keeravaani, Mounima" Title="[iSongs.info] 01 - Saahore Baahubali" Genre="Telugu" Album="Baahubali 2 - (2017)" Composer="M.M. Keeravaani" TrackNumber="01" Year="2017" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 04 - Cheppave Balamani.mp3" FileSize="4392499">
+  <Tags Author="Sweekar Agasthi" Title="[iSongs.info] 04 - Cheppave Balamani" Genre="Telugu" Album="Chalo - (2017)" Composer="Mahati Swara Sagar" TrackNumber="04" Year="2017" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 03 - Rangamma Mangamma.mp3" FileSize="4032660">
+  <Tags Author="M. M. Manasi" Title="[iSongs.info] 03 - Rangamma Mangamma" Genre="Telugu" Album="Rangasthalam - (2018)" Composer="Devi Sri Prasad" TrackNumber="03" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 05 - Ardham Leni Navvu.mp3" FileSize="3994391">
+  <Tags Author="Sreenidhi" Title="[iSongs.info] 05 - Ardham Leni Navvu" Genre="Telugu" Album="Chal Mohan Ranga - (2018)" Composer="Thaman S." TrackNumber="05" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 02 - Akasam Ammayaithe.mp3" FileSize="4766725">
+  <Tags Author="Shankar Mahadevan, Gopika Poornima" Title="[iSongs.info] 02 - Akasam Ammayaithe" Genre="Telugu" Album="Gabbar Singh - (2012)" Composer="Devi Sri Prasad" TrackNumber="02" Year="2012" Flag="1" />
+  <Infos SongLength="293.186000" FirstSeen="1571675942" Bitrate="130" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Choosi Chudangane.mp3" FileSize="3281264">
+  <Tags Author="Anurag Kulkarni, Saagar Mahati" Title="[iSongs.info] 01 - Choosi Chudangane" Genre="Telugu" Album="Chalo - (2017)" Composer="Mahati Swara Sagar" TrackNumber="01" Year="2017" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 02 - Jogendra Jogendra.mp3" FileSize="1401631">
+  <Tags Author="Master Rishon Rubens, Divya" Title="[iSongs.info] 02 - Jogendra Jogendra" Genre="Telugu" Album="Nene Raju Nene Mantri - (2017)" Composer="Anup Rubens" TrackNumber="02" Year="2017" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 03 - Vachaadayyo Saami.mp3" FileSize="5239534">
+  <Tags Author="Kailash Kher, Divya Kumar" Title="[iSongs.info] 03 - Vachaadayyo Saami" Genre="Telugu" Album="Bharat Ane Nenu - (2018)" Composer="Devi Sri Prasad" TrackNumber="03" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\03 - Idea Cheppu Friendu [NaaSong.in].mp3" FileSize="4025602">
+  <Tags Author="Prakash Raj, Ram Pothineni" Title="03 - Idea Cheppu Friendu [NaaSong.in]" Genre="Telugu" Album="Hello Guru Prema Kosame (2018)" Composer="Devi Sri Prasad" Label="https://naasong.in" Remix="NaaSong.in" TrackNumber="03/05" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675941" Cover="1" />
+  <Comment>https://naasong.in</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Devuditho Samaram.mp3" FileSize="3374398">
+  <Tags Author="Anup Rubens" Title="[iSongs.info] 01 - Devuditho Samaram" Genre="Telugu" Album="Nene Raju Nene Mantri - (2017)" Composer="Anup Rubens" TrackNumber="01" Year="2017" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 05 - Sukhibhava Annaru.mp3" FileSize="4138010">
+  <Tags Author="Shreya Ghoshal, Rohith" Title="[iSongs.info] 05 - Sukhibhava Annaru" Genre="Telugu" Album="Nene Raju Nene Mantri - (2017)" Composer="Anup Rubens" TrackNumber="05" Year="2017" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 03 - Rayyi Rayyi Mantu.mp3" FileSize="4015926">
+  <Tags Author="Divya Kumar. M. M. Manasi" Title="[iSongs.info] 03 - Rayyi Rayyi Mantu" Genre="Telugu" Album="Vunnadi Okate Zindagi - (2017)" Composer="Devi Sri Prasad" TrackNumber="03" Year="2017" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 05 - Ammaye Challo Antu.mp3" FileSize="3887188">
+  <Tags Author="Yazin Nizar, Lipsika" Title="[iSongs.info] 05 - Ammaye Challo Antu" Genre="Telugu" Album="Chalo - (2017)" Composer="Mahati Swara Sagar" TrackNumber="05" Year="2017" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 02 - Shatamanam Bhavati.mp3" FileSize="3366161">
+  <Tags Author="K. S. Chithra, Vijay Yesudas" Title="[iSongs.info] 02 - Shatamanam Bhavati" Genre="Telugu" Album="Shatamanam Bhavati - (2016)" Composer="Mickey J Meyer" TrackNumber="02" Year="2016" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 04 - Ide Kalala Vunnadhe.mp3" FileSize="4515962">
+  <Tags Author="Andrea Jeremiah" Title="[iSongs.info] 04 - Ide Kalala Vunnadhe" Genre="Telugu" Album="Bharat Ane Nenu - (2018)" Composer="Devi Sri Prasad" TrackNumber="04" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 04 - Turn This Party Up.mp3" FileSize="3364753">
+  <Tags Author="Hiphop Tamizha, Brodha V" Title="[iSongs.info] 04 - Turn This Party Up" Genre="Telugu" Album="Krishnarjuna Yudham - (2018)" Composer="Hiphop Tamizha" TrackNumber="04" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 02 - O Pilla Shubhanalla.mp3" FileSize="4501906">
+  <Tags Author="Vijay Prakash, Shreya Ghosal" Title="[iSongs.info] 02 - O Pilla Shubhanalla" Genre="Telugu" Album="Sardaar Gabbar Singh - (2016)" Composer="Devi Sri Prasad" TrackNumber="02" Year="2016" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 03 - Kannaa Nidurinchara.mp3" FileSize="4756394">
+  <Tags Author="Sreenidhi, V. Srisoumya" Title="[iSongs.info] 03 - Kannaa Nidurinchara" Genre="Telugu" Album="Baahubali 2 - (2017)" Composer="M.M. Keeravaani" TrackNumber="03" Year="2017" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\Manasedo Vethukuthu Undi-Naasongs.me.mp3" FileSize="5285134">
+  <Tags Author="Yazin Nizar, Anurag Kulkarni" Title="Manasedo Vethukuthu Undi-Naasongs.me" Genre="Telugu" Album="Devadas - (2018)" Composer="Mani Sharma" TrackNumber="06" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675941" Cover="1" />
+  <Comment>Naasongs.me</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 05 - Bhamalu Bhammalluuu.mp3" FileSize="3373378">
+  <Tags Author="Nakash Aziz " Title="[iSongs.info] 05 - Bhamalu Bhammalluuu" Genre="Telugu" Album="Mahanubhavudu - (2017)" Composer="SS Thaman" TrackNumber="05" Year="2017" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\Inkem Inkem Inkem Kaavaale-Naasongs.me.mp3" FileSize="6619214">
+  <Tags Author="Sid Sriram" Title="Inkem Inkem Inkem Kaavaale-Naasongs.me" Album="Geetha Govindam-Naasongs.me" Composer="Naasongs.me" Label="Naasongs.me" Remix="Naasongs.me" Remixer="Naasongs.me" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675941" Cover="1" />
+  <Comment>Naasongs.me</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Yentha Sakkagunnaave.mp3" FileSize="4267983">
+  <Tags Author="Devi Sri Prasad" Title="[iSongs.info] 01 - Yentha Sakkagunnaave" Genre="Telugu" Album="Rangasthalam - (2018)" Composer="Devi Sri Prasad" TrackNumber="01" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 06 - Thaaney Vachhindhanaa.mp3" FileSize="3282421">
+  <Tags Author="Kaala Bhairava, Padmalatha" Title="[iSongs.info] 06 - Thaaney Vachhindhanaa" Genre="Telugu" Album="Krishnarjuna Yudham - (2018)" Composer="Hiphop Tamizha" TrackNumber="06" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 05 - Vunnadi Okate Zindagi.mp3" FileSize="3697449">
+  <Tags Author="Sagar" Title="[iSongs.info] 05 - Vunnadi Okate Zindagi" Genre="Telugu" Album="Vunnadi Okate Zindagi - (2017)" Composer="Devi Sri Prasad" TrackNumber="05" Year="2017" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\05 - Hello Guru Prema Kosame [NaaSong.in].mp3" FileSize="3570438">
+  <Tags Author="Sagar, Ranina Reddy" Title="05 - Hello Guru Prema Kosame [NaaSong.in]" Genre="Telugu" Album="Hello Guru Prema Kosame (2018)" Composer="Devi Sri Prasad" Label="https://naasong.in" Remix="NaaSong.in" TrackNumber="05/05" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675941" Cover="1" />
+  <Comment>https://naasong.in</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 03 - Cinema Choopistha Mama.mp3" FileSize="4405334">
+  <Tags Author="Simha,Varikuppala Yadagiri" Title="[iSongs.info] 03 - Cinema Choopistha Mama" Genre="Telugu" Album="Race Gurram - (2014)" Composer="SS Thaman" Label="http://iSongs.info" TrackNumber="03" Year="2014" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\04 - Peddha Peddha Kallathoti [NaaSong.in].mp3" FileSize="4046062">
+  <Tags Author="Yazin Nizar" Title="04 - Peddha Peddha Kallathoti [NaaSong.in]" Genre="Telugu" Album="Hello Guru Prema Kosame (2018)" Composer="Devi Sri Prasad" Label="https://naasong.in" Remix="NaaSong.in" TrackNumber="04/05" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675941" Cover="1" />
+  <Comment>https://naasong.in</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 04 - Aadevadanna Eedevadanna.mp3" FileSize="2855983">
+  <Tags Author="Deepak" Title="[iSongs.info] 04 - Aadevadanna Eedevadanna" Genre="Telugu" Album="Sardaar Gabbar Singh - (2016)" Composer="Devi Sri Prasad" TrackNumber="04" Year="2016" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 04 - Yenniyello Yenniyello.mp3" FileSize="1739090">
+  <Tags Author="Malavika" Title="[iSongs.info] 04 - Yenniyello Yenniyello" Genre="Telugu" Album="Naa Peru Surya Naa illu India - (2018)" Composer="Vishal-Shekhar" TrackNumber="04" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 07 - Mahanubhavudu (Karaoke).mp3" FileSize="4202825">
+  <Tags Author="Karaoke" Title="[iSongs.info] 07 - Mahanubhavudu (Karaoke)" Genre="Telugu" Album="Mahanubhavudu - (2017)" Composer="SS Thaman" Remix="Karaoke" TrackNumber="07" Year="2017" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Dekho Dekho Gabbar Singh.mp3" FileSize="4267680">
+  <Tags Author="Baba Sehgal, Naveen Madhav" Title="[iSongs.info] 01 - Dekho Dekho Gabbar Singh" Genre="Telugu" Album="Gabbar Singh - (2012)" Composer="Devi Sri Prasad" TrackNumber="01" Year="2012" Flag="1" />
+  <Infos SongLength="262.000000" FirstSeen="1571675942" Bitrate="130" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 02 - Lover Also Fighter Also.mp3" FileSize="3841863">
+  <Tags Author="Shekhar Ravjiani" Title="[iSongs.info] 02 - Lover Also Fighter Also" Genre="Telugu" Album="Naa Peru Surya Naa illu India - (2018)" Composer="Vishal-Shekhar" TrackNumber="02" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 02 - Ranga Ranga Rangasthalana.mp3" FileSize="4916736">
+  <Tags Author="Rahul Sipligunj" Title="[iSongs.info] 02- Ranga Ranga Rangasthalana" Genre="Telugu" Album="Rangasthalam - (2018)" Composer="Devi Sri Prasad" TrackNumber="02" Year="2018" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 02 - What Amma What Is This Amma.mp3" FileSize="3741838">
+  <Tags Author="Devi Sri Prasad" Title="[iSongs.info] 02 - What Amma What Is This Amma" Genre="Telugu" Album="Vunnadi Okate Zindagi - (2017)" Composer="Devi Sri Prasad" TrackNumber="02" Year="2017" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Trendu Maarina Friendu Maaradu.mp3" FileSize="3054301">
+  <Tags Author="Devi Sri Prasad" Title="[iSongs.info] 01 - Trendu Maarina Friendu Maaradu" Genre="Telugu" Album="Vunnadi Okate Zindagi - (2017)" Composer="Devi Sri Prasad" TrackNumber="01" Year="2017" Flag="1" />
+  <Infos FirstSeen="1571675942" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 02 - Break The Rules.mp3" FileSize="3989074">
+  <Tags Author="Raghu Dixit" Title="[iSongs.info] 02 - Break The Rules" Genre="Telugu" Album="Tholi Prema - (2018)" Composer="Thaman S." TrackNumber="02" Year="2018" Flag="1" />
+  <Infos SongLength="246.100658" FirstSeen="1571675942" FirstPlay="1571676282" LastPlay="1571676282" PlayCount="1" Bitrate="128" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+  <Scan Version="801" Bpm="0.468742" AltBpm="0.703107" Volume="1.570503" Key="Am" Flag="32768" />
+  <Poi Pos="15.232177" Type="beatgrid" />
+  <Poi Pos="0.230748" Type="automix" Point="realStart" />
+  <Poi Pos="242.696417" Type="automix" Point="realEnd" />
+  <Poi Pos="0.250000" Type="automix" Point="fadeStart" />
+  <Poi Pos="240.650000" Type="automix" Point="fadeEnd" />
+  <Poi Pos="15.219955" Type="automix" Point="cutStart" />
+  <Poi Pos="240.651610" Type="automix" Point="cutEnd" />
+  <Poi Pos="30.694875" Type="automix" Point="tempoStart" />
+  <Poi Pos="225.692766" Type="automix" Point="tempoEnd" />
+  <Poi Name="Break 1" Pos="112.732880" Type="remix" />
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Desktop\movies\www.TamilMV.io - Premam (2016) Telugu - HDRip - 720p - AVC - AAC - 1.5GB.mp4" FileSize="1571438830" Flag="64">
+  <Tags Title="Premam (2017) From - TamilMV" Year="2016" Flag="1" />
+  <Infos SongLength="7550.201000" FirstSeen="1571676472" Bitrate="1665" Cover="2" />
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Desktop\movies\www.MovieRulz.pl - Chalo (2018) 720p Telugu HDRip - x264 - AAC - 900 MB.mkv" FileSize="978668078" Flag="64">
+  <Tags Year="2018" Flag="2" />
+  <Infos FirstSeen="1571676472" />
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Desktop\movies\www.3MovieRulz.com - Guna 369 (2019) 720p Telugu DVDScr x264 MP3 1.3GB.mkv" FileSize="1380663189" Flag="64">
+  <Tags Year="2019" Flag="2" />
+  <Infos FirstSeen="1571676472" />
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Desktop\movies\www.3MovieRulz.ws - Chanakya (2019) 720p Telugu DVDScr x264 MP3 900MB.mkv" FileSize="952904526" Flag="64">
+  <Tags Year="2019" Flag="2" />
+  <Infos FirstSeen="1571676472" />
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Desktop\movies\Mirchi.mp4" FileSize="1463899252" Flag="64">
+  <Tags Flag="1" />
+  <Infos SongLength="9245.001722" FirstSeen="1571676472" Bitrate="1267" Cover="2" />
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Desktop\movies\www.3MovieRulz.tv - Ranarangam (2019) 720p Telugu DVDScr x264 MP3 900MB.mkv" FileSize="954734504" Flag="64">
+  <Tags Year="2019" Flag="2" />
+  <Infos FirstSeen="1571676472" />
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Desktop\movies\DARLING.mp4" FileSize="627386044" Flag="64">
+  <Tags Flag="1" />
+  <Infos SongLength="9154.838333" FirstSeen="1571676472" Bitrate="548" Cover="2" />
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Desktop\movies\kerintha.mp4" FileSize="548211907" Flag="64">
+  <Tags Flag="1" />
+  <Infos SongLength="8418.463333" FirstSeen="1571676472" Bitrate="521" Cover="2" />
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Desktop\movies\Maari 2 (2018).mp4" FileSize="416976611">
+  <Tags Year="2018" Flag="2" />
+  <Infos FirstSeen="1571676472" />
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Desktop\movies\Mahanati (2018).mp4" FileSize="3934591122" Flag="64">
+  <Tags Year="2018" Flag="1" />
+  <Infos SongLength="10509.700000" FirstSeen="1571676472" Bitrate="2995" Cover="2" />
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Desktop\movies\www.MovieRulz.tc - Kirrak Party (2018) v2 Telugu HDRip x264 AAC 700 MB HC-ESub.mkv" FileSize="741636873" Flag="64">
+  <Tags Year="2018" Flag="2" />
+  <Infos FirstSeen="1571676472" />
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Desktop\movies\Maharshi (2019).mkv" FileSize="785188224" Flag="64">
+  <Tags Year="2019" Flag="2" />
+  <Infos FirstSeen="1571676472" />
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Desktop\movies\Taxiwala (2018).mkv" FileSize="1379590564" Flag="64">
+  <Tags Year="2018" Flag="2" />
+  <Infos FirstSeen="1571676472" />
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Desktop\movies\Tholi Prema (2018).mp4" FileSize="2256339767" Flag="64">
+  <Tags Title="www.MovieRulz.ht" Year="2018" Flag="1" />
+  <Infos SongLength="8150.553000" FirstSeen="1571676472" Bitrate="2215" Cover="2" />
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Desktop\movies\Bharat Ane Nenu (2018).mkv" FileSize="3421213849" Flag="64">
+  <Tags Year="2018" Flag="2" />
+  <Infos FirstSeen="1571676472" />
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Desktop\movies\www.MovieRulz.tc - Krishnarjuna Yuddham (2018) 720p Telugu HDRip x264 AAC 1.4 GB - ESub.mkv" FileSize="1462600561" Flag="64">
+  <Tags Year="2018" Flag="2" />
+  <Infos FirstSeen="1571676472" />
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Desktop\movies\www.TamilMV.cz - OH! BABY (2019) Telugu Proper HQ PreDVD - 720p - x264 - HQ Line Aud - 900MB.mkv" FileSize="956556967" Flag="64">
+  <Tags Year="2019" Flag="2" />
+  <Infos FirstSeen="1571676472" />
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Desktop\movies\www.3MovieRulz.com_-_1st_Rank_Raju_(2019)_1080p_Telugu_Proper_HDRip_x265_HEV.mkv" FileSize="1689073168" Flag="64">
+  <Tags Year="2019" Flag="2" />
+  <Infos FirstSeen="1571676472" />
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Desktop\movies\Ee Nagaraniki Emaindi (2018).mkv" FileSize="1460125524" Flag="64">
+  <Tags Year="2018" Flag="2" />
+  <Infos FirstSeen="1571676472" />
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Desktop\movies\Padi Padi Leche Manasu (2018).mkv" FileSize="949361286" Flag="64">
+  <Tags Year="2018" Flag="2" />
+  <Infos FirstSeen="1571676472" />
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Desktop\movies\Vunnadhi Okate Zindagi(2017).mkv" FileSize="2252469075" Flag="64">
+  <Tags Year="2017" Flag="2" />
+  <Infos FirstSeen="1571676472" />
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Desktop\movies\Meesaya_Murukku_(2017)_Tamil.mkv" FileSize="2014718018" Flag="64">
+  <Tags Year="2017" Flag="2" />
+  <Infos FirstSeen="1571676472" />
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Desktop\movies\www.3MovieRulz.tv - Brochevarevarura (2019) 720p Telugu Proper HDRip x264 DD5.1 (224kbps) 1.3GB ESub.mkv" FileSize="1453925057" Flag="64">
+  <Tags Remix="224kbps" Flag="2" />
+  <Infos FirstSeen="1571676472" />
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Desktop\movies\Aanandam_Latest_Telugu_Full_Length_Movie__Arun_Kurian,_Thomas_Mathew,_Roshan_Mathew.mp4" FileSize="529623373" Flag="64">
+  <Tags Flag="1" />
+  <Infos SongLength="7018.209000" FirstSeen="1571676472" Bitrate="604" Cover="2" />
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\Undipo-Naasongs.me.mp3" FileSize="7465763">
+  <Tags Author="Anurag Kulkarni &amp; Ramya Behara" Title="Undipo-Naasongs.me" Album="iSmart Shankar" Label="Naasongs.me" Remix="Naasongs.me" Remixer="Naasongs.me" Grouping="Naasongs.me" Year="2019" Flag="1" />
+  <Infos SongLength="309.707755" FirstSeen="1571675941" FirstPlay="1571839488" LastPlay="1571839488" PlayCount="1" Bitrate="192" Cover="1" />
+  <Comment>Naasongs.me</Comment>
+  <Scan Version="801" Bpm="0.631565" AltBpm="0.473673" Volume="1.930384" Key="Dm" Flag="32768" />
+  <Poi Pos="23.964422" Type="beatgrid" />
+  <Poi Pos="0.056599" Type="automix" Point="realStart" />
+  <Poi Pos="309.609070" Type="automix" Point="realEnd" />
+  <Poi Pos="12.700000" Type="automix" Point="fadeStart" />
+  <Poi Pos="309.100000" Type="automix" Point="fadeEnd" />
+  <Poi Pos="35.920544" Type="automix" Point="cutStart" />
+  <Poi Pos="307.771791" Type="automix" Point="cutEnd" />
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Sainika.mp3" FileSize="4231782">
+  <Tags Author="Vishal Dadlani" Title="[iSongs.info] 01 - Sainika" Genre="Telugu" Album="Naa Peru Surya Naa illu India - (2018)" Composer="Vishal-Shekhar" TrackNumber="01" Year="2018" Flag="1" />
+  <Infos SongLength="260.520249" FirstSeen="1571675942" FirstPlay="1571839546" LastPlay="1571839546" PlayCount="1" Bitrate="128" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+  <Scan Version="801" Bpm="0.526304" AltBpm="0.789456" Volume="1.562955" Key="Am" Flag="32768" />
+  <Poi Pos="0.535147" Type="beatgrid" />
+  <Poi Pos="0.848980" Type="automix" Point="realStart" />
+  <Poi Pos="259.336417" Type="automix" Point="realEnd" />
+  <Poi Pos="18.950000" Type="automix" Point="fadeStart" />
+  <Poi Pos="254.700000" Type="automix" Point="fadeEnd" />
+  <Poi Pos="18.952562" Type="automix" Point="cutStart" />
+  <Poi Pos="252.011247" Type="automix" Point="cutEnd" />
+  <Poi Pos="65.786961" Type="automix" Point="tempoStart" />
+  <Poi Pos="233.155125" Type="automix" Point="tempoEnd" />
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\Zindabad Zindabad-Naasongs.me.mp3" FileSize="4707251">
+  <Tags Author="Sarath Santhosh &amp; Ramya Behara -Naasongs.me" Title="Zindabad Zindabad-Naasongs.me" Genre="Telugu-Naasongs.me" Album="Ismart Shankar-Naasongs.me" Composer="Mani Sharma -Naasongs.me" Label="Naasongs.me" Remix="Naasongs.me" Remixer="Naasongs.me" Grouping="Naasongs.me" Year="2019" Flag="1" />
+  <Infos SongLength="195.788821" FirstSeen="1571675942" Bitrate="192" Cover="1" />
+  <Comment>Naasongs.me</Comment>
+  <Scan Version="801" Bpm="0.648639" AltBpm="0.972948" Volume="1.793129" Key="Dm" Flag="32768" />
+  <Poi Pos="10.626758" Type="beatgrid" />
+  <Poi Pos="0.242358" Type="automix" Point="realStart" />
+  <Poi Pos="195.691973" Type="automix" Point="realEnd" />
+  <Poi Pos="0.250000" Type="automix" Point="fadeStart" />
+  <Poi Pos="195.050000" Type="automix" Point="fadeEnd" />
+  <Poi Pos="10.615873" Type="automix" Point="cutStart" />
+  <Poi Pos="195.032381" Type="automix" Point="cutEnd" />
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 04 - Emo Emo.mp3" FileSize="3912995">
+  <Tags Author="Praveen Lakkaraju, Sid Sriram" Title="[iSongs.info] 04 - Emo Emo" Genre="Telugu" Album="Raahu - (2019)" Composer="Praveen Lakkaraju" TrackNumber="04" Year="2019" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Ay Pilla.mp3" FileSize="4182368">
+  <Tags Author="Haricharan" Title="[iSongs.info] 01 - Ay Pilla" Genre="Telugu" Album="Love Story - (2020)" Composer="Pawan Ch" TrackNumber="01" Year="2020" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - No Pelli.mp3" FileSize="3178702">
+  <Tags Author="Armaan Malik, Thaman S" Title="[iSongs.info] 01 - No Pelli" Genre="Telugu" Album="Solo Brathuke So Better - (2020)" Composer="S S Thaman" TrackNumber="01" Year="2020" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 03 - OMG Daddy.mp3" FileSize="3826596">
+  <Tags Author="Roll Rida, Rahul Nambiar, Lady Kash" Title="[iSongs.info] 03 - OMG Daddy" Genre="Telugu" Album="Ala Vaikuntapuramlo - (2019)" Composer="Thaman S" TrackNumber="01" Year="2019" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Gundegilli.mp3" FileSize="3785760">
+  <Tags Author="Rohit Paritala" Title="[iSongs.info] 01 - Gundegilli" Genre="Telugu" Album="Kanulu Kanulanu Dochayante - (2020)" Composer="Masala Coffee Band" TrackNumber="01" Year="2020" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 04 - ButtaBomma.mp3" FileSize="3304717">
+  <Tags Author="Armaan Malik" Title="[iSongs.info] 04 - ButtaBomma" Genre="Telugu" Album="Ala Vaikuntapuramlo - (2019)" Composer="Thaman S" TrackNumber="04" Year="2019" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 02 - Glassmates.mp3" FileSize="3476687">
+  <Tags Author="Rahul Sipligunj, Penchal Das, Devi Sri Prasad" Title="[iSongs.info] 02 - Glassmates" Genre="Telugu" Album="Chitralahari - (2019)" Composer="Devi Sri Prasad" TrackNumber="02" Year="2019" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 02 - Hoyna Hoyna.mp3" FileSize="4403076">
+  <Tags Author="Inno Genga" Title="[iSongs.info] 02 - Hoyna Hoyna" Genre="Telugu" Album="Gang Leader - (2019)" Composer="Anirudh Ravichander" TrackNumber="02" Year="2019" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 02 - Idera Sneham.mp3" FileSize="3863313">
+  <Tags Author="Armaan Malik" Title="[iSongs.info] 02 - Idera Sneham" Genre="Telugu" Album="30-Rojullo Preminchadam Ela - (2020)" Composer="Anup Rubens" TrackNumber="02" Year="2020" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 04 - Gangu Leader.mp3" FileSize="3225294">
+  <Tags Author="Various" Title="[iSongs.info] 04 - Gangu Leader" Genre="Telugu" Album="Gang Leader - (2019)" Composer="Anirudh Ravichander" TrackNumber="04" Year="2019" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Nuvve Nuvve.mp3" FileSize="4074133">
+  <Tags Author="Ramya Behara, Anurag Kulkarni" Title=" [iSongs.info] 01 - Nuvve Nuvve" Genre="Telugu" Album="Red - (2020)" Composer="Mani Sharma" TrackNumber="01" Year="2020" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Manasu Maree.mp3" FileSize="4421759">
+  <Tags Author="Amit Trivedi, Shashaa Tirupati &amp; Yazin Nizar" Title="[iSongs.info] 01 - Manasu Maree" Genre="Telugu" Album="V - (2020)" Composer="Amit Trivedi" TrackNumber="01" Year="2020" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 03 - Meeko Dhandam.mp3" FileSize="4319969">
+  <Tags Author="Dhananjay, Mohana Bhogaraju" Title="[iSongs.info] 03 - Meeko Dhandam" Genre="Telugu" Album="30-Rojullo Preminchadam Ela - (2020)" Composer="Anup Rubens" TrackNumber="03" Year="2020" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Manasa Manasa.mp3" FileSize="4125018">
+  <Tags Author="Sid Sriram" Title="[iSongs.info] 01 - Manasa Manasa" Genre="Telugu" Album="Most Eligible Bachelor - (2020)" Composer="Gopi Sunder" TrackNumber="01" Year="2020" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 02 - Dhak Dhak Dhak.mp3" FileSize="1860947">
+  <Tags Author="Sarath Santhosh, Hari Priya" Title="[iSongs.info] 02 - Dhak Dhak Dhak" Genre="Telugu" Album="Uppena - (2020)" Composer="Devi Sri Prasad" TrackNumber="02" Year="2020" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 03 - Prema Vennela.mp3" FileSize="3529716">
+  <Tags Author="Sudharshan Ashok" Title="[iSongs.info] 03 - Prema Vennela" Genre="Telugu" Album="Chitralahari - (2019)" Composer="Devi Sri Prasad" TrackNumber="03" Year="2019" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Maguva Maguva.mp3" FileSize="4160651">
+  <Tags Author="Sid Sriram" Title=" [iSongs.info] 01 - Maguva Maguva" Genre="Telugu" Album="Vakeel Saab - (2020)" Composer="Thaman S" TrackNumber="01" Year="2020" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Dimaak Kharaab.mp3" FileSize="4542320">
+  <Tags Author="Keerthana Sharma, Saketh" Title="[iSongs.info] 01 - Dimaak Kharaab" Genre="Telugu" Album="Ismart Shankar - (2019)" Composer="Mani Sharma" TrackNumber="01" Year="2019" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Parugu Parugu.mp3" FileSize="3377987">
+  <Tags Author="David Simon" Title="[iSongs.info] 01 - Parugu Parugu" Genre="Telugu" Album="Chitralahari - (2019)" Composer="Devi Sri Prasad" TrackNumber="01" Year="2019" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 02 - Bujji Bangaram.mp3" FileSize="3399959">
+  <Tags Author="Nakash Aziz, Deepthi Parthasarathy" Title="[iSongs.info] 02 - Bujji Bangaram" Genre="Telugu" Album="Guna 369 - (2019)" Composer="Chaitan Bharadwaj" TrackNumber="02" Year="2019" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Psycho Saiyaan.mp3" FileSize="2704433">
+  <Tags Author="Anirudh Ravichander, Dhvani Bhanushali, Tanishk Bagchi" Title="[iSongs.info] 01 - Psycho Saiyaan" Genre="Telugu" Album="Saaho - (2019)" Composer="Anirudh Ravichander, Dhvani Bhanushali, Tanishk Bagchi" TrackNumber="01" Year="2019" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Inthena Inthena.mp3" FileSize="4234656">
+  <Tags Author="Sid Sriram" Title="[iSongs.info] 01 - Inthena Inthena" Genre="Telugu" Album="Suryakantham - (2019)" Composer="Mark K Robin" TrackNumber="01" Year="2019" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>http://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 02 - Ramuloo Ramulaa.mp3" FileSize="3979630">
+  <Tags Author="Anurag Kulkarni, Mangli Satyavathi" Title="[iSongs.info] 02 - Ramuloo Ramulaa" Genre="Telugu" Album="Ala Vaikuntapuramlo - (2019)" Composer="Thaman S" TrackNumber="02" Year="2019" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 02 - Nuvve Samastham.mp3" FileSize="4330796">
+  <Tags Author="Yazin Nizar" Title="[iSongs.info] 02 - Nuvve Samastham" Genre="Telugu" Album="Maharshi - (2019)" Composer="Devi Sri Prasad" TrackNumber="02" Year="2019" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 03 - Singilu Singilu.mp3" FileSize="3912531">
+  <Tags Author="Rahul Sipligunj, MM Mansi" Title="[iSongs.info] 03 - Singilu Singilu" Genre="Telugu" Album="90 ML - (2019)" Composer="Anup Rubens" TrackNumber="03" Year="2019" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Samajavaragamana.mp3" FileSize="3571605">
+  <Tags Author="Samajavaragamana" Title="[iSongs.info] 01 - Samajavaragamana" Genre="Telugu" Album="Ala Vaikuntapuramlo - (2019)" Composer="Thaman S" TrackNumber="01" Year="2019" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 02 - Zindabad Zindabad.mp3" FileSize="3098287">
+  <Tags Author="Sarath Santhosh, Ramya Behara" Title="[iSongs.info] 02 - Zindabad Zindabad" Genre="Telugu" Album="Ismart Shankar - (2019)" Composer="Mani Sharma" TrackNumber="02" Year="2019" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 03 - ISmart Title Song.mp3" FileSize="4099273">
+  <Tags Author="Anurag Kulkarni" Title="[iSongs.info] 03 - ISmart Title Song" Genre="Telugu" Album="Ismart Shankar - (2019)" Composer="Mani Sharma" TrackNumber="03" Year="2019" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Neeli Neeli Aakasam.mp3" FileSize="4661502">
+  <Tags Author="Sid Sriram, Sunitha" Title="[iSongs.info] 01 - Neeli Neeli Aakasam" Genre="Telugu" Album="30-Rojullo Preminchadam Ela - (2020)" Composer="Anup Rubens" TrackNumber="01" Year="2020" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Choti Choti Baatein.mp3" FileSize="4268952">
+  <Tags Author="Devi Sri Prasad" Title="[iSongs.info] 01 - Choti Choti Baatein" Genre="Telugu" Album="Maharshi - (2019)" Composer="Devi Sri Prasad" TrackNumber="01" Year="2019" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 07 - Sittharala Sirapadu.mp3" FileSize="3093219">
+  <Tags Author="Sooranna, Saketh Komanduri" Title="[iSongs.info] 07 - Sittharala Sirapadu" Genre="Telugu" Album="Ala Vaikuntapuramlo - (2019)" Composer="Thaman S" TrackNumber="07" Year="2019" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 05 - Katharaayadam Reprise.mp3" FileSize="2958325">
+  <Tags Author="Anirudh Ravichander" Title="[iSongs.info] 05 - Katharaayadam Reprise" Genre="Telugu" Album="Gang Leader - (2019)" Composer="Anirudh Ravichander" TrackNumber="05" Year="2019" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 02 - Vasthunnaa Vachestunna.mp3" FileSize="3512788">
+  <Tags Author="Shreya Goshal, Amit Trivedi, Anurag Kulkarni" Title="[iSongs.info] 02 - Vasthunnaa Vachestunna" Genre="Telugu" Album="V - (2020)" Composer="Amit Trivedi" TrackNumber="02" Year="2020" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Nee Kannu Neeli Samudram.mp3" FileSize="5137418">
+  <Tags Author="Javed Ali" Title="[iSongs.info] 01 - Nee Kannu Neeli Samudram" Genre="Telugu" Album="Uppena - (2020)" Composer="Devi Sri Prasad" TrackNumber="01" Year="2020" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 06 - Ala Vaikunthapurramuloo.mp3" FileSize="3208584">
+  <Tags Author="Sri Krishna, Priya Sisters" Title="[iSongs.info] 06 - Ala Vaikunthapurramuloo" Genre="Telugu" Album="Ala Vaikuntapuramlo - (2019)" Composer="Thaman S" TrackNumber="06" Year="2019" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\[iSongs.info] 01 - Sarileru Neekevvaru - The Intro.mp3" FileSize="748552">
+  <Tags Author="Devi Sri Prasad" Title="[iSongs.info] 01 - Sarileru Neekevvaru - The Intro" Genre="Telugu" Album="Sarileru Neekevvaru - (2019)" Composer="Devi Sri Prasad" TrackNumber="01" Year="2019" Flag="1" />
+  <Infos FirstSeen="1598788688" Cover="1" />
+  <Comment>https://iSongs.info</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\Freedom-Naasongs.Audio.mp3" FileSize="5935405">
+  <Tags Author="Naasongs.Audio" Title="Freedom-Naasongs.Audio" Composer="Naasongs.Audio" Label="Naasongs.Audio" Remix="Naasongs.Audio" Remixer="Naasongs.Audio" Grouping="Naasongs.Audio" Flag="1" />
+  <Infos FirstSeen="1571675941" Cover="33" />
+  <Comment>Naasongs.Audio</Comment>
+ </Song>
+ <Song FilePath="C:\Users\Sai Bhargav Reddy\Music\Bombhaat-Naasongs.Audio.mp3" FileSize="6057621">
+  <Tags Title="Bombhaat-Naasongs.Audio" Album="Lie-Naasongs.Audio" Composer="Naasongs.Audio" Label="Naasongs.Audio" Remix="Naasongs.Audio" Remixer="Naasongs.Audio" Grouping="Naasongs.Audio" Flag="1" />
+  <Infos FirstSeen="1571675941" Cover="33" />
+  <Comment>Naasongs.Audio</Comment>
+ </Song>
+</VirtualDJ_Database>
